@@ -6,6 +6,7 @@ To do:
 - [ ] RTC error when rebooting
 - [ ] Battery information
 - [ ] USB fails sometimes
+- [ ] Audio
 - [ ] Fan information
 - [ ] Temperature information
 
