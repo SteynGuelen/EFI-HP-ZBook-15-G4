@@ -3,8 +3,11 @@
 
 To do:
 - [ ] Fix touchpad multifinger
+- [ ] RTC error when rebooting
 - [ ] Battery information
 - [ ] USB fails sometimes
+- [ ] Fan information
+- [ ] Temperature information
 
 
 Done:
